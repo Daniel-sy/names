@@ -5,5 +5,5 @@
 * Stulich, John
 * Tapia, Daniel
 * Tobias, Rebecca
-* Ambar Ruiz
+* Ruiz, Ambar
 * Vega, Alexander
